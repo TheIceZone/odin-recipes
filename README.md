@@ -1,4 +1,5 @@
 Odin-recipies is the first project to complete on The Odin Project, using basic HTML skills to create a website. 4 iterations of the website will be made. 
+    
     - Iteration 1 will be the intial structure, setting up index.html and adding a h1 heading for the website.
 
     - Iteration 2 will add a recipes directory and create the first recipe page, only having basic info. This page will then be linked to the homepage so you can navigate between the 2
